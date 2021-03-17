@@ -41,6 +41,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 https://cdn.glitch.com/19779450-1a71-4bce-bfa9-9270c1890f8c%2FMemory_game_gif2.gif?v=1616016692699
 https://i.imgur.com/NowRzjT.gif
+![image](https://user-images.githubusercontent.com/41610281/111542218-d1f73900-8747-11eb-8e09-2ebdbbc61ee4.png)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
